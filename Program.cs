@@ -64,8 +64,7 @@ namespace tarefa07
                 Console.WriteLine("agua quente pronta");
               }
             }
-           
-
+       
 
 
 
